@@ -1,19 +1,20 @@
-# 🎶 MIXXTOPIA
-> "엔믹스 팬덤을 위한 차세대 커뮤니티 & AI 창작 플랫폼"
+# *MIXXTOPIA*
+> The web service that provide community & creative AI for NMIXX fandom
 
-## 🌐 소개
-MIXXTOPIA는 엔믹스(NMIXX) 팬덤 ‘엔써’를 위한 커뮤니티 웹 사이트로,  
-**커뮤니티 / 실시간 정보 / AI 기반 믹스팝 생성 / 글로벌 팬 지도 / 데이터 트렌드** 등의 기능을 제공합니다.
+## Introduction
+**MIXXTOPIA** is community web site for NMIXX's fandom 'NSWER',
+it provides functions such as **community / real-time information / AI-based MIXX POP creation / data trend**
 
 ---
 
 ## 🧩 주요 기능
-- 🧠 **AI Mix Studio** : AI가 엔믹스 스타일의 노래를 자동 생성
-- 💬 **Fan Talk** : 엔써들이 실시간으로 대화 가능한 팬 커뮤니티
-- 📅 **실시간 일정 자동 업데이트** : 공식 일정, 콘텐츠, SNS 연동
-- 🎨 **팬아트, 투표, 퀴즈 카테고리**
-- 🌍 **Global Fan Map** : 전 세계 엔써 응원 지도 시각화
-- 📈 **NMIXX 트렌드 데이터 분석**
+- 🧠 **MIXX Studio** : AI automatically generates songs in the NMIXX style
+- 💬 **Fan Talk** : Chatting service for NSWERS
+- 📅 **Real-time Schedule Auto-Update** : Integrates official schedules, content releases, and social media feeds.
+- 🎨 **Fan Art, Gallery, & Quiz Categories**
+- 🌍 **Fan Map** : Visualizes the support map of NSWERS(Only KOREA or Worldwide)
+- 📈 **NMIXX Trend Data Analysis**
+- 🎶 **
 
 ---
 
