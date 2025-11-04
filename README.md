@@ -17,15 +17,15 @@ it provides functions such as **community / real-time information / AI-based MIX
 - 🎶 **AI-powered member matching service** : Helps users discover people with similar interests and personalities.
 ---
 
-## Tect Stack
+## Tech Stack
 | Category | Technology |
 |:------|:------|
-| Frontend | React + Vite, TypeScript, TailwindCSS |
-| Backend | FastAPI (or Express) |
+| Frontend | React + Vite, TypeScript (planned), TailwindCSS |
+| Backend | FastAPI (Python) + SQLAlchemy |
 | Database | PostgreSQL |
-| AI | Python + HuggingFace + PyTorch |
-| Infra | Docker, GitHub Actions, AWS EC2/S3 |
-| Etc | OpenAI API, YouTube API, Spotify API |
+| AI | PyTorch + HuggingFace Transformers (MusicGen / Text Models) |
+| Infra | Docker + Docker Compose, GitHub Actions, AWS EC2 / S3 |
+| Etc | OpenAI API (text), YouTube API (video metadata), Spotify API (trend analysis) |
 
 ---
 
