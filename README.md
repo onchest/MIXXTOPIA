@@ -20,12 +20,12 @@ it provides functions such as **community / real-time information / AI-based MIX
 ## Tech Stack
 | Category | Technology |
 |:------|:------|
-| Frontend | React + Vite, TypeScript (planned), TailwindCSS |
+| Frontend | React + Vite,  TailwindCSS, ~~TypeScript (planned)~~ |
 | Backend | FastAPI (Python) + SQLAlchemy |
-| Database | PostgreSQL |
-| AI | PyTorch + HuggingFace Transformers (MusicGen / Text Models) |
-| Infra | Docker + Docker Compose, GitHub Actions, AWS EC2 / S3 |
-| Etc | OpenAI API (text), YouTube API (video metadata), Spotify API (trend analysis) |
+| Database | SQLite → ~~PostgreSQL~~ |
+| AI | HuggingFace Transformers (text or music generation) + ~~PyTorch (custom model training)~~ |
+| Infra | ~~Docker + Docker Compose~~, ~~GitHub Actions, AWS EC2 / S3~~ |
+| Etc | ~~OpenAI API (text), YouTube API (video metadata~~), ~~Spotify API (trend analysis)~~ |
 
 ---
 
